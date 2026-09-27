@@ -1,4 +1,11 @@
 pip install -r requirements.txt
 
+# Stage the files
+git add .
 
+# Commit the files
+git commit -m "Initial commit"
+
+# Push to GitHub
+git push -u origin main
 
